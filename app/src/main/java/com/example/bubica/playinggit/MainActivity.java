@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         Log.i("My second GIT commit", "We rock'n'roll");
         Log.i("My third commit", "This is now funny");
 
+        /*final version
+        of the project
+         */
+
 
     }
 }
